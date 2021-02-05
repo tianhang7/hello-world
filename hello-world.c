@@ -9,5 +9,4 @@ scanf("%s",name);
 printf("Hello,%s!\n",name);
 return 0;
 }
-
-%%testing 
+% Git test
